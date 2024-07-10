@@ -1,0 +1,26 @@
+#TheBody{
+   background-color:goldenrod;
+
+}
+
+#shoppingForm{
+    background-color: silver;
+    padding-bottom: 10px;
+}
+
+#shopping_container{
+    background-color: silver;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    padding-top: 2px;
+}
+
+#InitialList{
+    background-color: silver;
+}
+.green{
+    background-color: green;
+}
+#shopping_done{
+    background-color: red;
+}
